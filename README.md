@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-<!--
 - 🌱 I'm a data scientist.
 - 🔭 I’m currently working on applied machine learning for transport
 - 📫 Reach me on twitter <a href="https://twitter.com/danhpt">@danhpt</a>
--->
+
 
 <!--
 **danhphan/danhphan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
