@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I'm a data scientist.
-- 🔭 I’m currently working on applied machine learning for transport
+- 🔭 I’m currently working on applied machine learning for intelligent transport systems
 - 📫 Reach me on twitter <a href="https://twitter.com/danhpt">@danhpt</a>
 
 
