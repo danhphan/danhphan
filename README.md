@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I'm a machine learning researcher.
-- 🔭 I’m currently working on applied machine learning for intelligent transport systems
+- 🌱 I'm a machine learning researcher at Monash University, Australia.
+- 🔭 I’m currently working on machine learning for intelligent transport systems
 - 📫 Reach me on twitter <a href="https://twitter.com/danhpt">@danhpt</a>
 
 
