@@ -1,8 +1,7 @@
 ### Hi there, my name is Danh Phan 👋
-
-- 🌱 I'm a machine learning researcher at Monash University, Australia.
-- 🔭 I’m working on Machine learning for intelligent transport systems
-- 📫 Reach me on twitter <a href="https://twitter.com/danhpt">@danhpt</a>
+- 🌱 I work as a Data Scientist at Johnson Controls Australia.
+- 🔭 I'm also an ML researcher at Monash University, working on Machine learning for intelligent transport systems.
+- 📫 Reach me on Linkedin <a href="https://www.linkedin.com/in/danhpt">@danhpt</a> or on Twitter <a href="https://twitter.com/danhpt">@danhpt</a>
 
 
 <!--
