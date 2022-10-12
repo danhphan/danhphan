@@ -1,5 +1,5 @@
 ### Hi there, my name is Danh Phan 👋👋 Turning data into actionable insights is my passion :heart: :fire:
-- 🌱 I work as a Data Scientist at the Pacific service team, Johnson Controls, Australia.
+- 🌱 I work as a Data Scientist at the Pacific Service team, Johnson Controls, Australia.
 - 🔭 I'm also a Machine Learning researcher at Monash University, working on Machine learning for intelligent transport systems.
 - 📫 Let's connect on Linkedin <a href="https://www.linkedin.com/in/danhpt">@danhpt</a> or Twitter <a href="https://twitter.com/danhpt">@danhpt</a>
 
