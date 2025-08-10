@@ -1,5 +1,5 @@
-### Hi there, my name is Danh Phan 👋👋 Turning data into actionable insights is my passion :heart: :fire:
-- 🌱 Danh is building the data platform for the Investment Data System Team at HESTA.
+### Hi there, my name is Danh Phan 👋👋 Applying Data Engineering and DataOps to build end-to-end data engineering solutions is my passion :heart: :fire:
+- 🌱 Danh is building the data engineering platform for the Investment Data System Team at HESTA.
 - 🔭 I worked as a Data Analytics Engineer at Johnson Controls Australia. I was also a Machine Learning researcher at Monash University, working on Machine learning for intelligent transport systems.
 - 📫 Let's connect on Linkedin <a href="https://www.linkedin.com/in/danhpt">@danhpt</a> or Twitter <a href="https://twitter.com/danhpt">@danhpt</a>
 
